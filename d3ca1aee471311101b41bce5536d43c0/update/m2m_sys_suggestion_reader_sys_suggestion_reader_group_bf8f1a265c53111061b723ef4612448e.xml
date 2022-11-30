@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sys_suggestion_reader_sys_suggestion_reader_group">
+    <m2m_sys_suggestion_reader_sys_suggestion_reader_group action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <reader_requested_fields/>
+        <reader_searchable_fields/>
+        <sys_class_name>m2m_sys_suggestion_reader_sys_suggestion_reader_group</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-24 11:20:15</sys_created_on>
+        <sys_id>bf8f1a265c53111061b723ef4612448e</sys_id>
+        <sys_name/>
+        <sys_package display_value="Prova" source="x_946135_prova">d3ca1aee471311101b41bce5536d43c0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Prova">d3ca1aee471311101b41bce5536d43c0</sys_scope>
+        <sys_suggestion_reader_group_id display_value="Suggested Result Reader Group for Starter Workspace AI Search Configuration">b38f1a2683531110955974d87839dc93</sys_suggestion_reader_group_id>
+        <sys_suggestion_reader_id display_value="Personal Click Reader">ec49ee515b511010627eed35cc81c7b9</sys_suggestion_reader_id>
+        <sys_update_name>m2m_sys_suggestion_reader_sys_suggestion_reader_group_bf8f1a265c53111061b723ef4612448e</sys_update_name>
+    </m2m_sys_suggestion_reader_sys_suggestion_reader_group>
+</record_update>

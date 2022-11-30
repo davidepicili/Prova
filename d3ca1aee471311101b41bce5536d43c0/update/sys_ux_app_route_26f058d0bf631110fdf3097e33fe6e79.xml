@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Prova Config">12f058d0476311101b41bce5536d4352</app_config>
+        <description/>
+        <extension_point/>
+        <fields/>
+        <icon/>
+        <name>Activity</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Record Page(request)">eef058d05a631110dea916e8ba02b779</parent_macroponent>
+        <parent_macroponent_composition_element_id>tab_set_1</parent_macroponent_composition_element_id>
+        <route_type>rec_req_activity</route_type>
+        <screen_type display_value="Activity">66f058d0f76311102905397fd32d277a</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-11-29 11:26:42</sys_created_on>
+        <sys_id>26f058d0bf631110fdf3097e33fe6e79</sys_id>
+        <sys_name>Activity</sys_name>
+        <sys_package display_value="Prova" source="x_946135_prova">d3ca1aee471311101b41bce5536d43c0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Prova">d3ca1aee471311101b41bce5536d43c0</sys_scope>
+        <sys_update_name>sys_ux_app_route_26f058d0bf631110fdf3097e33fe6e79</sys_update_name>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=26f058d0bf631110fdf3097e33fe6e79"/>
+</record_update>

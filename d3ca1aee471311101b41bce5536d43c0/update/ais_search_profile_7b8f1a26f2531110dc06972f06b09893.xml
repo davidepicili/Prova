@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile">
+    <ais_search_profile action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>This is default AI Search profile for ProvaAnagrafica</description>
+        <genius_result_assembly/>
+        <label>ProvaAnagrafica search profile</label>
+        <name>x_946135_prova_ypvecexe_search_profile</name>
+        <publish_id>4b4c2134-9876-4894-b059-58d398587ca4</publish_id>
+        <state>DRAFT</state>
+        <sys_class_name>ais_search_profile</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-24 11:20:14</sys_created_on>
+        <sys_id>7b8f1a26f2531110dc06972f06b09893</sys_id>
+        <sys_name>ProvaAnagrafica search profile</sys_name>
+        <sys_package display_value="Prova" source="x_946135_prova">d3ca1aee471311101b41bce5536d43c0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Prova">d3ca1aee471311101b41bce5536d43c0</sys_scope>
+        <sys_update_name>ais_search_profile_7b8f1a26f2531110dc06972f06b09893</sys_update_name>
+    </ais_search_profile>
+</record_update>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes/>
+        <macroponent display_value="Search Page">6af058d05a6311108de5e94cf7ca8177</macroponent>
+        <name>handle_search</name>
+        <preset/>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[function handler({ api, event, helpers }) {
+    const fields = {
+        searchContextConfigId: api.context.props.searchContextConfigId
+    };
+    const params = {
+        searchFilters: api.context.props.searchFilters
+    };
+    
+	if (event.name === 'SN_SEARCH_RESULTS_CONTAINER#SEARCH_EXECUTED') {
+		fields.searchTerm = event.payload.searchTerm;
+		params.disableSpellCheck = true;
+        
+  	} else if (event.name === 'SN_SEARCH_COMBOBOX#SEARCH_EXECUTED') {
+		fields.searchTerm = event.payload.searchTerm;
+		params.disableSpellCheck = false;
+        console.log("search clicked");
+        api.setState('loading', true);
+        api.setState('searchTerm', event.payload.searchTerm);
+  	}
+	//helpers.navigate.to('search', fields, params);
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-11-29 11:26:41</sys_created_on>
+        <sys_id>66f058d06a6311103d4a04c493f5b176</sys_id>
+        <sys_name>handle_search</sys_name>
+        <sys_package display_value="Prova" source="x_946135_prova">d3ca1aee471311101b41bce5536d43c0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Prova">d3ca1aee471311101b41bce5536d43c0</sys_scope>
+        <sys_update_name>sys_ux_client_script_66f058d06a6311103d4a04c493f5b176</sys_update_name>
+        <target/>
+        <type/>
+    </sys_ux_client_script>
+</record_update>

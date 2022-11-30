@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="canvas_user" name="canvas_user">8536f54bc713330072b211d4d8c26080</contains>
+        <role display_value="x_946135_prova.admin" name="x_946135_prova.admin">17ca1aee471311101b41bce5536d43c5</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-24 11:20:18</sys_created_on>
+        <sys_id>389f5a26475311101b41bce5536d43a9</sys_id>
+        <sys_name>canvas_user.x_946135_prova.admin</sys_name>
+        <sys_package display_value="Prova" source="x_946135_prova">d3ca1aee471311101b41bce5536d43c0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Prova">d3ca1aee471311101b41bce5536d43c0</sys_scope>
+        <sys_update_name>sys_user_role_contains_389f5a26475311101b41bce5536d43a9</sys_update_name>
+    </sys_user_role_contains>
+</record_update>

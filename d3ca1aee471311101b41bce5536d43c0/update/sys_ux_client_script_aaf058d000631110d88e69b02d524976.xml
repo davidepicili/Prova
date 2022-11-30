@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes/>
+        <macroponent display_value="Catalog Item Page">e6f058d060631110bb5458971570b17b</macroponent>
+        <name>Related item page redirection</name>
+        <preset/>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[/**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {any} params.event
+ * @param {any} params.imports
+ */
+function handler({
+    api,
+    event,
+    helpers,
+    imports
+}) {
+    const {
+        state,
+        emit,
+        data
+    } = api;
+
+    if (state.relatedItemSysId) {
+        api.setState("relatedItemSysId", "");
+        emit('NAV_ITEM_SELECTED', {
+            route: "catalog",
+            fields: {
+                "sysId": data.look_up_record_1.result.related_sc_cat_item.value
+            }
+        });
+    }
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-11-29 11:26:40</sys_created_on>
+        <sys_id>aaf058d000631110d88e69b02d524976</sys_id>
+        <sys_name>Related item page redirection</sys_name>
+        <sys_package display_value="Prova" source="x_946135_prova">d3ca1aee471311101b41bce5536d43c0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Prova">d3ca1aee471311101b41bce5536d43c0</sys_scope>
+        <sys_update_name>sys_ux_client_script_aaf058d000631110d88e69b02d524976</sys_update_name>
+        <target/>
+        <type/>
+    </sys_ux_client_script>
+</record_update>

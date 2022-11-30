@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_search_context_config_search_source">
+    <m2m_search_context_config_search_source action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <search_context_config display_value="ProvaAnagrafica - Workspace Search">f78f1a268053111010730d77940eff92</search_context_config>
+        <source display_value="ProvaAnagrafica - x_946135_prova_anagrafica">749f5a26475311101b41bce5536d43b0</source>
+        <sys_class_name>m2m_search_context_config_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-24 11:20:19</sys_created_on>
+        <sys_id>d19f5a26475311101b41bce5536d43d4</sys_id>
+        <sys_name/>
+        <sys_package display_value="Prova" source="x_946135_prova">d3ca1aee471311101b41bce5536d43c0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Prova">d3ca1aee471311101b41bce5536d43c0</sys_scope>
+        <sys_update_name>m2m_search_context_config_search_source_d19f5a26475311101b41bce5536d43d4</sys_update_name>
+    </m2m_search_context_config_search_source>
+</record_update>

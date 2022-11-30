@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="758b5a22475311101b41bce5536d433a" label="Anagrafica" max_length="40" name="x_946135_prova_anagrafica" text_index="true" type="collection">
+        <element default="Picili" label="Cognome" max_length="40" name="cognome" type="string"/>
+        <element label="DataDiNascita" max_length="40" name="datadinascita" type="glide_date"/>
+        <element default="Davide" label="Nome" max_length="40" name="nome" type="string"/>
+    </element>
+</database>

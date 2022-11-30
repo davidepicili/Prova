@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_datasource">
+    <sys_ux_composite_data_m2m_datasource action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Landing - My Tasks Dataset">2af058d0c5631110e918468ed8fdca75</dataset>
+        <datasource display_value="Custom Portal Landing - My Tasks Datasource (Task table)">aef058d0d863111038371ae81ff7bd74</datasource>
+        <sys_class_name>sys_ux_composite_data_m2m_datasource</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-11-29 11:26:43</sys_created_on>
+        <sys_id>e6f058d089631110257e2635bd33ad74</sys_id>
+        <sys_name/>
+        <sys_package display_value="Prova" source="x_946135_prova">d3ca1aee471311101b41bce5536d43c0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Prova">d3ca1aee471311101b41bce5536d43c0</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_datasource_e6f058d089631110257e2635bd33ad74</sys_update_name>
+    </sys_ux_composite_data_m2m_datasource>
+</record_update>

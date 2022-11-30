@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_datasource">
+    <sys_ux_composite_data_m2m_datasource action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Landing - My Requests Dataset">e6f058d0fd63111023870c9acfe4c175</dataset>
+        <datasource display_value="My Requests - Requested Item Datasource">a2f058d05c6311107a0afabc49abb875</datasource>
+        <sys_class_name>sys_ux_composite_data_m2m_datasource</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-11-29 11:26:43</sys_created_on>
+        <sys_id>eaf058d08f631110908c56e390c58c73</sys_id>
+        <sys_name/>
+        <sys_package display_value="Prova" source="x_946135_prova">d3ca1aee471311101b41bce5536d43c0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Prova">d3ca1aee471311101b41bce5536d43c0</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_datasource_eaf058d08f631110908c56e390c58c73</sys_update_name>
+    </sys_ux_composite_data_m2m_datasource>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_declarative_action_payload_definition">
+    <sys_declarative_action_payload_definition action="INSERT_OR_UPDATE">
+        <action_key>MY_TASK_REJECT_ACTION</action_key>
+        <applicable_to>035d270073151010c342d5fdbdf6a715</applicable_to>
+        <description/>
+        <label>Reject</label>
+        <payload_field_table>var__m_sys_declarative_action_payload_field_e2f058d0c36311105e5fb6c789cd7f80</payload_field_table>
+        <payload_template>{&#13;
+        "table": "{{table}}",&#13;
+        "sysId": "{{sys_id}}"&#13;
+}</payload_template>
+        <sys_class_name>sys_declarative_action_payload_definition</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-11-29 11:26:41</sys_created_on>
+        <sys_id>e2f058d0c36311105e5fb6c789cd7f80</sys_id>
+        <sys_name>Reject</sys_name>
+        <sys_package display_value="Prova" source="x_946135_prova">d3ca1aee471311101b41bce5536d43c0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Prova">d3ca1aee471311101b41bce5536d43c0</sys_scope>
+        <sys_update_name>sys_declarative_action_payload_definition_e2f058d0c36311105e5fb6c789cd7f80</sys_update_name>
+    </sys_declarative_action_payload_definition>
+</record_update>

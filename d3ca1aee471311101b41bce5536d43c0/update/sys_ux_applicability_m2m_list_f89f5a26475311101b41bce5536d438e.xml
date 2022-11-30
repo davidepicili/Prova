@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_list">
+    <sys_ux_applicability_m2m_list action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Audience for app provaanagrafica">e09f5a26475311101b41bce5536d4362</applicability>
+        <list display_value="All">b89f5a26475311101b41bce5536d437c</list>
+        <order>100</order>
+        <sys_class_name>sys_ux_applicability_m2m_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-24 11:20:17</sys_created_on>
+        <sys_id>f89f5a26475311101b41bce5536d438e</sys_id>
+        <sys_name/>
+        <sys_package display_value="Prova" source="x_946135_prova">d3ca1aee471311101b41bce5536d43c0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Prova">d3ca1aee471311101b41bce5536d43c0</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_list_f89f5a26475311101b41bce5536d438e</sys_update_name>
+    </sys_ux_applicability_m2m_list>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_declarative_action_payload_definition">
+    <sys_declarative_action_payload_definition action="INSERT_OR_UPDATE">
+        <action_key>MY_TASKS_APPROVE_ACTION</action_key>
+        <applicable_to>035d270073151010c342d5fdbdf6a715</applicable_to>
+        <description/>
+        <label>Approve</label>
+        <payload_field_table>var__m_sys_declarative_action_payload_field_aef058d06263111036ecb99afa4b9a7f</payload_field_table>
+        <payload_template>{&#13;
+        "table": "{{table}}",&#13;
+        "sysId": "{{sys_id}}"&#13;
+}</payload_template>
+        <sys_class_name>sys_declarative_action_payload_definition</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-11-29 11:26:41</sys_created_on>
+        <sys_id>aef058d06263111036ecb99afa4b9a7f</sys_id>
+        <sys_name>Approve</sys_name>
+        <sys_package display_value="Prova" source="x_946135_prova">d3ca1aee471311101b41bce5536d43c0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Prova">d3ca1aee471311101b41bce5536d43c0</sys_scope>
+        <sys_update_name>sys_declarative_action_payload_definition_aef058d06263111036ecb99afa4b9a7f</sys_update_name>
+    </sys_declarative_action_payload_definition>
+</record_update>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event">
+    <sys_ux_event action="INSERT_OR_UPDATE">
+        <description/>
+        <event_name>MY_TASKS_REJECT</event_name>
+        <interfaces/>
+        <label>My tasks reject</label>
+        <props>[{"name":"sysId","fieldType":"string","label":"Sys ID","interfaceApiName":"","typeMetadata":null,"mandatory":false,"readOnly":false},{"name":"table","fieldType":"string","label":"Table","interfaceApiName":"","typeMetadata":null,"mandatory":false,"readOnly":false}]</props>
+        <required_translations/>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_event</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-11-29 11:26:43</sys_created_on>
+        <sys_id>2af058d02d63111037f0c785b41bde7a</sys_id>
+        <sys_name>My tasks reject</sys_name>
+        <sys_package display_value="Prova" source="x_946135_prova">d3ca1aee471311101b41bce5536d43c0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Prova">d3ca1aee471311101b41bce5536d43c0</sys_scope>
+        <sys_update_name>sys_ux_event_2af058d02d63111037f0c785b41bde7a</sys_update_name>
+    </sys_ux_event>
+    <sys_translated_text action="delete_multiple" query="documentkey=2af058d02d63111037f0c785b41bde7a"/>
+</record_update>

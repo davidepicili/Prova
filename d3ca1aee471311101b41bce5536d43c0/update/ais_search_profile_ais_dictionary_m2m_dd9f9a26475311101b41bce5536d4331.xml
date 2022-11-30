@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_dictionary_m2m">
+    <ais_search_profile_ais_dictionary_m2m action="INSERT_OR_UPDATE">
+        <dictionary display_value="x_946135_prova_provaanagrafica_search_profile_default_spell_check_dictionary">d19f9a26475311101b41bce5536d432f</dictionary>
+        <dictionary_reference_qualifier/>
+        <marked_for_deletion>false</marked_for_deletion>
+        <profile display_value="ProvaAnagrafica search profile">7b8f1a26f2531110dc06972f06b09893</profile>
+        <sys_class_name>ais_search_profile_ais_dictionary_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-24 11:20:20</sys_created_on>
+        <sys_id>dd9f9a26475311101b41bce5536d4331</sys_id>
+        <sys_name>x_946135_prova_provaanagrafica_search_profile_default_spell_check_dictionary.ProvaAnagrafica search profile</sys_name>
+        <sys_package display_value="Prova" source="x_946135_prova">d3ca1aee471311101b41bce5536d43c0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Prova">d3ca1aee471311101b41bce5536d43c0</sys_scope>
+        <sys_update_name>ais_search_profile_ais_dictionary_m2m_dd9f9a26475311101b41bce5536d4331</sys_update_name>
+    </ais_search_profile_ais_dictionary_m2m>
+</record_update>

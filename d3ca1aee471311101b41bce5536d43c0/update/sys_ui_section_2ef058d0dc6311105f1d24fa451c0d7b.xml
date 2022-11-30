@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="2ef058d0dc6311105f1d24fa451c0d7b" sys_domain="global" table="sysapproval_approver" version="3" view="custom_portal_approval_x_946135_prova">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>0</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2022-11-29 11:26:39</sys_created_on>
+            <sys_id>62f058d0d663111003a6b44398694c7c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="eef058d0db63111085138adc1786c97b">2ef058d0dc6311105f1d24fa451c0d7b</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2022-11-29 11:26:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sysapproval</element>
+            <position>1</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2022-11-29 11:26:39</sys_created_on>
+            <sys_id>e2f058d027631110a4401179b69dd67c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="eef058d0db63111085138adc1786c97b">2ef058d0dc6311105f1d24fa451c0d7b</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2022-11-29 11:26:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>sysapproval_approver</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2022-11-29 11:26:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2ef058d0dc6311105f1d24fa451c0d7b</sys_id>
+            <sys_name>sysapproval_approver</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Prova" source="x_946135_prova">d3ca1aee471311101b41bce5536d43c0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Prova">d3ca1aee471311101b41bce5536d43c0</sys_scope>
+            <sys_update_name>sys_ui_section_2ef058d0dc6311105f1d24fa451c0d7b</sys_update_name>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Custom portal (x_946135_prova)" name="custom_portal_approval_x_946135_prova">eef058d0db63111085138adc1786c97b</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

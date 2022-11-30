@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_predicate_bundle">
+    <sys_ux_composite_data_m2m_predicate_bundle action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Landing - My Tasks Dataset">2af058d0c5631110e918468ed8fdca75</dataset>
+        <order/>
+        <predicate_bundle display_value="My Tasks - Task bundle">e2f058d0b36311104497fb5a57190e73</predicate_bundle>
+        <sys_class_name>sys_ux_composite_data_m2m_predicate_bundle</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-11-29 11:26:40</sys_created_on>
+        <sys_id>eef058d00d631110400e4aca901e1573</sys_id>
+        <sys_name/>
+        <sys_package display_value="Prova" source="x_946135_prova">d3ca1aee471311101b41bce5536d43c0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Prova">d3ca1aee471311101b41bce5536d43c0</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_predicate_bundle_eef058d00d631110400e4aca901e1573</sys_update_name>
+    </sys_ux_composite_data_m2m_predicate_bundle>
+</record_update>
